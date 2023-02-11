@@ -1,0 +1,20 @@
+
+      Missile axial drag vs time plot for40 degrees
+      Time                 Axial drag     
+      20                   55.83          
+      40                   101.48         
+      60                   109.33         
+      80                   66.27          
+      100                  29.16          
+
+      Missile induced drag vs time plot for40 degrees
+      Time                 Induced drag   
+      20                   0.52           
+      40                   0.95           
+      60                   1.03           
+      80                   0.62           
+      100                  0.27           
+
+
+Acceleration along y axis (m/s-sq) = 961.74         
+Acceleration along z axis (m/s-sq) = 1134.47        
